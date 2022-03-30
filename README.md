@@ -1,19 +1,4 @@
 # Kotlin-for-android
 В различных ветках данного репозитория находятся задачки, реализованные на языке Kotlin.
 
-![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/1.png)![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/2.png)![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)
-
-![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)
-
-![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)
-
-![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)
-
-![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)
-
-![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)
-
-![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)
-
-![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/Task-3/1.png)
-
+![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/1.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/2.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/3.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/4.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/5.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/4.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/4.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/6.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/7.png)  ![Скриншот приложения](https://github.com/FrikoGad/Kotlin-for-android/raw/main/8.png)
