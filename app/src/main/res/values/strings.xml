@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson 6v2</string>
+    <string name="text">A radio engineer who decided to become a programmer. I am learning Java and Kotlin. I focus on the development of applications for Android.</string>
+    <string name="test">Text</string>
+</resources>
